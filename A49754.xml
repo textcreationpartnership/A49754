@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something by way of rejoynder to Richard Smith his reply wherein I have cleared my self and others from the lyes and slanders which he (as his usual manner is) hath cast upon us. Written by Alexander Lawrence.</title>
+            <author>Lawrence, Alexander, d. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49754</idno>
+            <idno type="STC">Wing L650A</idno>
+            <idno type="STC">ESTC R221682</idno>
+            <idno type="EEBO-CITATION">99832956</idno>
+            <idno type="PROQUEST">99832956</idno>
+            <idno type="VID">37431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2188:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something by way of rejoynder to Richard Smith his reply wherein I have cleared my self and others from the lyes and slanders which he (as his usual manner is) hath cast upon us. Written by Alexander Lawrence.</title>
+                  <author>Lawrence, Alexander, d. 1682.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In response to Smith, Richard.  A brief reply to Alexander Lawrence's pamphlet.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, Richard, --  of Chester. --  Brief reply to Alexander Lawrence's pamphlet --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37431:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:37431:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>Something by way of REJOYNDER TO Richard Smith HIS REPLY Wherein I have Cleared my ſelf and others from the Lyes and Slanders which he (as his uſual manner is) hath caſt upon us.</p>
+            <p>Written by <hi>Alexander Lawrence.</hi>
+            </p>
+            <q>
+               <p>The Backſlider in Heart ſhall be filled with his own Wayes; and a Good Man shall be ſatisfied from himſelf.</p>
+               <p>A Wiſe Man feareth, and departeth from Evil; but the Fool rageth, and is confident, <bibl>Prov. 14.14, 16..</bibl>
+               </p>
+            </q>
+            <p>Printed in the Year 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:37431:2"/>
+            <!-- PDF PAGE 26 -->
+            <p>
+               <hi>RIchard Smith</hi> calls his Paper, printed in the year 1678. <hi>A brief Reply to</hi> Alexander Lawrence<hi>'s Pamphlet, en<g ref="char:EOLhyphen"/>tituled,</hi> An Anſwer to <hi>Richard Smith;</hi> but how little there is of that in it, is eaſily diſcerned by any reaſon<g ref="char:EOLhyphen"/>able perſon that may read my Anſwer and his Reply; but inſtead thereof many Reflections and Slanders by him caſt upon us, as in their time and place will appear: my Anſwer was chiefly for the clearing of us the People of God called <hi>Quakers,</hi> more par<g ref="char:EOLunhyphen"/>ticularly we in this County of <hi>Cheſhire,</hi> from the Wrong, In juſtice and Falſe Accuſation by him charged upon u<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the ma<g ref="char:EOLhyphen"/>nagement of the Difference depending between him and <hi>Danie<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Maddock,</hi> which accordingly I did, and not one word, that I know of, in his Reply doth gain-ſay what I wrote in my Anſwer touching that matter, which was the Ground of the D<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fference, or at leaſt he pretended it ſo, between him and us; ſo t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may reaſonably be concluded, the Man, as touching that mat<g ref="char:EOLhyphen"/>ter, was ſatisfied by my Anſwer, or other wayes was not a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gain-ſay what was written therein, and proved by ſeveral Wit<g ref="char:EOLhyphen"/>neſſes; though he is minded to call my Anſwer, pag. 11. of his Reply, <hi>A piece of the greateſt Hypocriſie and Deceit imaginable</hi> but it had been Man-like in him to have ſhewed wherein, if <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> could; but I conceive, ſober conſiderate perſons will be more wiſe than to take it to be ſo becauſe <hi>Richard Smith</hi> ſaith it, eſpe<g ref="char:EOLhyphen"/>cially being his Tongue is his own, and he can ſay what he pleaſ<g ref="char:EOLhyphen"/>eth, that will make for himſelf, as in its time and place will appear.</p>
+            <p>
+               <label>
+                  <hi>Richard Smith,</hi> pag. 3.</label>
+               <lb/>
+               <hi>I no leſs,</hi> ſaith he, <hi>call and refer to ra<g ref="char:EOLhyphen"/>tional, impartial, ſober-minded men to judge the Cauſe; by all which,</hi> ſaith he, <hi>one would think the man was ſerious and in good earneſt.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/> I was and am ſo, and do leave what I there mentioned to the ſerious Conſideration and Judgment of ſuch Perſons, and do believe and know there are many in this County, which are not called <hi>Quakers,</hi> who are able to judge of thoſe things, I leave to their Conſideration and Judgment; yet this doth not at all <hi>cut the Throat of my Cauſe,</hi> as <hi>Richard Smith</hi> in the
+<pb n="3" facs="tcp:37431:2"/>
+               <!-- PDF PAGE 26 -->
+ſame page ſaith it doth: for the firſt thing I leave to the ſober Reader, pag. 6. is, Whether it had not been as fit for <hi>R. Smith</hi> to have come to ſome of us, to have ſhew'd his Book, tituled, <hi>Light unchangeable,</hi> before he had publiſhed it, as I did mine to him, as to do what he did, mentioned in my Anſwer p. 6. The ſecond thing I appeal to any reaſonable man in, to judge of, is pag. 10. Whe<g ref="char:EOLhyphen"/>ther we received a Falſe Accuſation againſt <hi>Rich. Smith</hi> when he was not preſent, as he falſly chargeth us we did. The third thing, pag. 11. I appeal to ſuch in, is to judge, by what is therein truly laid down, whether we had wronged <hi>Richard Smith</hi> according to what he made a noiſe of. The fourth thing i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n pag. 13. of my Anſwer, That no rationable man can in reaſon judge, that I ſhould charge <hi>Richard Smith</hi> to deny that they never were, ſee<g ref="char:EOLhyphen"/>ing the Scriptures are ſo full that they were in their time and ſea<g ref="char:EOLunhyphen"/>ſon, viz. <hi>Water-Baptiſm</hi> and <hi>Breaking of Bread,</hi> theſe are the things, though <hi>Richard Smith</hi> in pag. 3. of his Reply mentions <hi>Points of Religion,</hi> I leave to rational impartial-minded men to judge of, as any man that reads my Anſwer may find in the pages mentioned, of which things, and deeper than theſe doubtleſs, many are able to judge, which are not called <hi>Quakers,</hi> unto whoſe ſerious Conſideration and Judgment I again leave them that may read both <hi>Richard Smith</hi>'s and my Anſwer.</p>
+            <p>The next thing that <hi>Richard Smith</hi> tells the Reader of, is, <hi>That a Paper of</hi> George Fox<hi>'s was brought to him, in which</hi> George Fox <hi>ſaith, many Friends came to him concerning Marriages, to know what they ſhould do in that Caſe; ſo that it may now</hi> (ſaith R. Smith) <hi>be ſeaſonably asked, What is become of the Light of Chriſt, ſo cryed up for the only ſufficient Teacher, to teach all things requiſit for men to know?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/> The Light is as ſufficient as ever it was, bleſſed be the God of Light forever; and this no more prove<g ref="char:punc">▪</g> the Light to be defective, or that they durſt not truſt to it in this our Day and Generation, becauſe of ſpeaking to G. F. as aforeſaid (as <hi>Rich Smith,</hi> pag. 4. unchriſtian-like ſaith it doth) than it proved the Light defective, or that they durſt not truſt to it in the primitive time, when <hi>Paul</hi> and <hi>Barnabas,</hi> and certain others of them, <hi>Acts</hi> 15.2. ſhould go up to <hi>Jeruſalem</hi> to the Apoſtles and El<g ref="char:EOLhyphen"/>ders there, to know what they muſt do as touching Circumciſi<g ref="char:EOLhyphen"/>on;
+<pb n="4" facs="tcp:37431:3"/>
+               <!-- PDF PAGE 27 -->
+might it not as well at that time have been ſaid, <hi>What is be<g ref="char:EOLhyphen"/>come of the ſufficiency of the Light (Paul</hi> that great Apoſtle of the <hi>Gentiles</hi> was ſent to turn people to, <hi>Acts</hi> 20.18?) Doth not ſending to the Apoſtles an<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Elders at <hi>Jeruſalem,</hi> to know what you muſt do in this caſe, prove either t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Light is defective, or you dare not truſt to it? nay, this doth not follow, but ſhew<g ref="char:EOLhyphen"/>eth that ſome are come to a more full Age in the Truth, and ſo to a more clear and deep ſenſe and Knowledge of the Mind and Will of God, and of things relating to his Kingdom than others, and ſuch the God of Heaven in his infinite Wi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dom and Goodneſs is pleaſed to make uſe of, as Inſtruments in his hand, for the Benefit and Comfort of ſuch who are more weak, and ſome but as Babes in Chriſt, which the Apoſtles and El<g ref="char:EOLhyphen"/>ders in their day did not reject, but wrote to them what they ſhould do, which when they had received, they rejoyced for the Conſolation, verſ. 31. as many faithful Ones do now for what God hath been pleaſed to do by <hi>George Fox</hi> and many other El<g ref="char:EOLhyphen"/>ders and Fathers, as Inſtruments in his Hand for the Well-being and Government of his Church, for which we bleſs the Name of our God, who gave ſome Apoſtles, ſome Prophets, and ſome Evangeliſts, and ſome Paſtors and Teachers, for the perfecting of the Saints, for the Work of the Miniſtry, for the edifying of the Body of Chriſt, till we all come in the Unity of the Faith, and of the Knowledge of the Son of God, unto a perfect man, unto the meaſure of the ſtature of the fulneſs of Chriſt, <hi>Epheſ</hi> 4.11, 12, 13. <hi>R. Smith</hi> might as well have ſaid, as many do, <hi>What need you to preach, pray, build up, exhort, adviſe, counſel, admoniſh, reprove, and ſuch like holy Duties? (is not the Light ſufficient? what is become of the ſufficiency thereof, ſo much cryed up by you</hi> as Cavil againſt Friends for ſome coming to <hi>George Fox</hi> to know what they muſt do as in the caſe of Marriages, for their ſo do<g ref="char:EOLhyphen"/>ing doth not prove the Light defective, or that ſuch durſt not truſt to it: this is not what <hi>Richard Smith</hi> hath formerly ſaid and done; ſo let him and others conſider who it is that is alter<g ref="char:EOLhyphen"/>ed, for we are the ſame we were twenty Years and more ago, who abide faithfull both in Principle, Doctrine and Practice, and nothing denyed or gone from that we at firſt held, though ſome things are added for the benefit in the Government of the Church
+<pb n="5" facs="tcp:37431:3"/>
+               <!-- PDF PAGE 27 -->
+of Chriſt, as it was in the Primitive Time, as I profered to <hi>Rich<g ref="char:EOLhyphen"/>ard Smith</hi>'s Face in his Houſe to prove, if he would deny it, which he did not; and he would have been aſhamed once with<g ref="char:EOLhyphen"/>in ſeven Years laſt paſt (and as many before that as to make them twenty) to have ſpoken or written after this manner: but it is no more nor otherwiſe then the old Spirit of the R<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter coming forth in a new appearance, which hath aſſumed many ſhapes in our Day, to withſtand the Simplicity that is in the Truth, and for Liberty to it ſelf which the God of Truth hath and will blaſt and bring to nought.</p>
+            <p>The next thing <hi>Richard Smith</hi> ſpeaks o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>A great Meeting in this County of</hi> Cheſhire, <hi>where Womens-Meetings were p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>op<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> by</hi> William Gandy <hi>and</hi> Thomas Briggs, <hi>two of</hi> George Fox's <hi>p<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſelites,</hi> as he calls them, <hi>to ſpeak ſo ſlightily</hi> of ſuch that he hath formerly had an eſteem and reſpect for (and they are the ſame they were) will make him never the better thought o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or People: he ſaith, <hi>that I and moſt of the Meeting gainſaid th<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>.</hi> As he there layeth it down, the thing is not true, as I can br<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g ſeveral to witneſs, for neither I nor others did oppoſe them ſim<g ref="char:EOLhyphen"/>ply as touching Womens-Meetings, but as judging there was no need for them to concern themſelves in our County about ſome things, as looking after the Poor, &amp;c. which ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Women out of their <hi>Chriſtian</hi>-Charity were willing to Communicate un<g ref="char:EOLunhyphen"/>to, and have a hand in the diſpoſal of, which I and ſome others in a high mind t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought needleſs; and it is n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t our ſelves we ſtand to juſtifie, but the Truth, and the Simplicity therein, and whoſoever goeth from it, goeth into Error; &amp; the Spirit of Truth, that cannot Err, and men that believe in, and are guided by it, therein Err not, but by it are led into all Truth: an<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for R. S. to ſay what is ſaid as touching <hi>Mirriam, Deborah,</hi> 
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Paul</hi>'s paſtoral charge to <hi>Titus, Paul,</hi> ſpeaking to the Women that re<g ref="char:EOLhyphen"/>ſorted to the place where Prayer was wont to be ma<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and what hath bin ſaid to the Scriptures is nothing to the matter, &amp; i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not a ſufficient Argument to prove it ſo, for R S. p. 5<g ref="char:punc">▪</g> 6. mentioning what <hi>G. Fox, W. Penn, R. Bartlet</hi> &amp; <hi>G. Wh<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>d,</hi> ſay, they are able to anſwer for themſelves, and <hi>W. Penn</hi> did give him an anſwer thereunto in Writing, which might have ſatisfied him.</p>
+            <p>In the next place I ſhall clear my ſelf from the Lyes &amp; Forgerie,
+<pb n="6" facs="tcp:37431:4"/>
+               <!-- PDF PAGE 28 -->
+he in pag. 13. chargeth me with, &amp; to be guilty of: R.S. ſaith, <hi>It is a common ſaying, a Lyar uſes to have a ready wit and quick memory</hi> (I have heard it ſaid, he had need of it) <hi>both which,</hi> ſaith R. S. <hi>Alexander Lawrence wanted when he writ his Book.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/> If I had not, nor have not ſo large a Meaſure of them as ſome others have, yet I bleſs God, I had ſo much as to write nothing but Truth; as hereby through Gods help I doubt not to make appear, though <hi>Richard Smith</hi> would in ſenſe ſuch who may come to read his Reply to the contrary.</p>
+            <p>
+               <hi>Richard Smith</hi> ſays, pag. 8. of his Reply, <hi>That I ſay, pag.</hi> 11. <hi>of my Anſwer, that I knew not he had ſpoke againſt Womens-Mee<g ref="char:EOLhyphen"/>tings till after ſuch a time, yet in pag.</hi> 15. <hi>I give my ſelf the Lye, in confeſſing, and ſaying within a Parentheſis, though it may be ſome of us have been of the ſame mind with thee.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/> Now ſee the Diſhoneſty of this man; I ſay in my An<g ref="char:EOLhyphen"/>ſwer, pag. 11. line 20. And then thou began to ſpeak and write againſt Women-Meetings, and not before, ſince that at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> which thou chiefly objected againſt, though that was done above nine Moneths before this I mention, yet nothing that I know of ſaid againſt it till after this time, which was the time we had to do between <hi>Thomas Davantport</hi> and him, as in pag. 10, 11. of my Anſwer is mentioned at large, theſe words [ſince that at <hi>London] Richard Smith</hi> leaves forth, which wholly alters the caſe, for that which I mention, pag. 15. was at that great Meeting he mention, pag. 4. of his Reply, where he ſaith, <hi>I and moſt gain-ſayed them,</hi> to wit, <hi>William Gandy</hi> and <hi>Thomas Briggs,</hi> which was before that at <hi>London,</hi> for he ſaith in the ſame pag. 4. of his Reply, <hi>not long after that</hi> Alex. Lawrence <hi>and ſome others went to that great Meeting at</hi> London, 1675. <hi>&amp; there ſet their hands to a Paper, &amp;c.</hi> Therefore <hi>Richard Smith</hi> leaving forth the time, by me mentioned, which was ſo plain before his Eyes, where<g ref="char:EOLhyphen"/>by to alter the ſenſe of my words, is no leſs then wilfull Wicked<g ref="char:EOLhyphen"/>neſs in him, and upon his own Head I return the Lye: The <hi>ſe<g ref="char:EOLhyphen"/>cond Lye</hi> R. Smith <hi>chargeth me with, and a piece of Forgery, I am guilty of, as he ſaith, is in the ſame pag.</hi> 8. <hi>that I ſhould ſay that in my pag.</hi> 11. <hi>which he did not</hi> ſay in his <hi>Light <g ref="char:V">Ʋ</g>nchangeable,</hi> page 7. nor in any page of his Book; my words, page 11. of my Anſwer are theſe, Line ſixteen and ſo on; and there
+<pb n="7" facs="tcp:37431:4"/>
+               <!-- PDF PAGE 28 -->
+upon we adviſed and deſired him, to wit, <hi>Thomas Davantport</hi> to come to Meetings, which accordingly he did, <hi>and this thing was it, as thou calleſt it, pinch't thee the moſt of any thing done by us, pag.</hi> 7. the word pinch is that which I had relation to in this matter, ſaith <hi>Richard Smith,</hi> pag. 8. <hi>There is neither in that page, viz.</hi> 7. <hi>nor any oth<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r in my Book any ſuch Expreſſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of mine,</hi> let any that hath his Book entituled, <hi>Light <g ref="char:V">Ʋ</g>nchangeable,</hi> read p. 7. line 19. and on, and there they may find theſe words, <hi>As by the ſequel will appear, having beyond all Bounds of Civility been ſo pincht with Wrongs and Delayes from ſuch,</hi> &amp;c. Here he ſaith, be<g ref="char:EOLhyphen"/>yond all Bounds of Civility ſo pinch't, which is the word I inſiſted upon, or intend in mine: therefore let any ſober Perſon judge who is the Lyar and Forger, <hi>Richard Smith,</hi> or <hi>Alexander Lawrence.</hi>
+            </p>
+            <p>The <hi>third Lye and piece of Forgery he chargeth me with, is in the ſame page, that I charge him no leſs then three times in my Book, in adding to my Anſwers.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/> In which he hath alſo very Un-<hi>Chriſtian</hi>-like, yea, and Un-Man-like abuſed me, in taking part of my words, and ſepa<g ref="char:EOLhyphen"/>rating them which are joyned together in my Anſwer, pag. 5. line 14, 15. theſe are my words, alſo adding or diminiſhing to all or moſt of my Anſwers to thy Queries.</p>
+            <p>
+               <hi>The ſecond place he mentions is page</hi> 13. theſe are my words, <q>In the next place I come to ſpeak of my Anſwers to thy Queries and therein to prove unto thee and others what I ſaid before, <hi>viz.</hi> that thou haſt IN ALL or Moſt of them either AD<g ref="char:EOLhyphen"/>DED or DIMINISHED:</q> Now let any impartial man judge whether it be fair in <hi>R. Smith</hi> only to ſay, <hi>I ſaid he Added,</hi> when I ſay he either ADDED or DIMINISHED, and I did prove he Diminiſhed in moſt of them, which he would put off himſelf IN SAYING ITS NOT <hi>Equiv<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng and Forging,</hi> and to ſay of him pag. 13. quoting Margin 26. of his, that is my Anſwer, which ſays he, <hi>he did not ſay:</hi> he ſays in Mar<g ref="char:EOLhyphen"/>gin 26. Book entituled, <hi>Light unchangeable, In Anſwer to the firſt Query, which Anſwer was mine and no mans elſe, therefore it muſt either be my Anſwer or no mans,</hi> yet he ſaith, <hi>he did not ſay is was mine.</hi>
+            </p>
+            <p>What pitifull ſhifts are theſe to hide Deceit, but they are too
+<pb n="8" facs="tcp:37431:5"/>
+               <!-- PDF PAGE 29 -->
+ſhort any rationable man may ſee them. The third place he cites is pag. 18. of my Anſwer, my words are theſe: <q>So have I ſhewed wherein <hi>thou haſt either Added or Diminiſhed from all or moſt of my Anſwers,</hi> for what end is known to thy ſelf:</q> There<g ref="char:EOLhyphen"/>fore let any ſober perſon judge whether <hi>R. Smith</hi> hath not dealt Un-<hi>Chriſtian</hi>-like, yea, Un-Man-like in ſaying, <hi>I ſay he hath Added,</hi> when in all the three places by him cited, I ſay, he hath added or diminiſhed, which in my Anſwer to his, as before, I did clearly prove.</p>
+            <p>Another piece of Forgery he chargeth me with is in the ſame with that which he in his Margin calls, <hi>the ſecond Lye about the word pinch;</hi> therefore my Anſwer thereunto may ſerve, only I may ſay, the man did not only want good memory and quick wit, but alſo good Eye-ſight, or otherwiſe he would not have writ<g ref="char:EOLhyphen"/>ten ſo many Lyes and Slanders in one page, <hi>viz.</hi> 8. and one twice over, or elſe he wanted Matter to fill it up; but however, his Tongue is his own, and he can ſay what will fit his own turn.</p>
+            <p>He tells people of an <hi>Edict,</hi> as he calls it, <hi>and as though there<g ref="char:EOLhyphen"/>by we would Violate the Bonds of Relations, ſo as to teach Wife to deny Husband, Children Parents, Servants Maſters, &amp;c.</hi>
+            </p>
+            <p>Becauſe we therein deny him, he being gone out of the Fear and Wiſdom of God, which doth not in the leaſt imply ſuch a thing, though he would draw ſuch a concluſion from it, there<g ref="char:EOLhyphen"/>by to render us contemptible in ſober Peoples minds, which is a further manifeſtation of his Mind and Intent towards us, but it had been fitter for him to have been ſilent herein, except he had kept the Bonds of Relations at Home, better then he hath done.</p>
+            <p>
+               <hi>R. S.</hi> ſaith, pag. 11. of his Reply, <hi>That he takes Religion to be a cloſe walking with God in thoſe holy Duties the Goſpel enjoyns.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <lb/> If that be true Religion, let ſuch as know him, and ſuch as may come to read his Words and Actions mentioned herein, judge whether he be found in the performance thereof or no.</p>
+            <p>Had there not been a neceſſity for the clearing of the Truth from his Lyes and Slanders, I ſhould rather choſe to have been ſilent, knowing the bad uſe that many will make of ſuch things, ſaving, <hi>They are at difference among themſelves,</hi> and the like, but Truth is but one, and they that are in it, and keep to it, are in Unity therein.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
